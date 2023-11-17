@@ -10,5 +10,6 @@
     <string name="haris">Haris Setiawan</string>
     <string name="joko">Dwi Djoko P</string>
     <string name="aprillia">Aprilia Kurnianti</string>
-    <string name="dosen">dosen</string>
+    <string name="dosen">Dosen Pembimbing 1</string>
+    <string name="dospem2">Dosen Pembimbing 2</string>
 </resources>

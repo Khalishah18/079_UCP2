@@ -41,11 +41,7 @@ fun HalamanDetail(
                 .weight(1f, false)
                 .padding(dimensionResource(R.dimen.padding_medium))
         ){
-            OutlinedButton(
-                modifier = Modifier.fillMaxWidth(),
-                onClick = onCancelButtonClicked) {
-                Text(stringResource(R.string.back))
-            }
+
         }
     }
 }
